@@ -27,3 +27,8 @@ docker run -d --name zipkin \
 ```
 git clone https://github.com/kullaniciadi/dotnet8-opentelemetry.git
 cd dotnet8-opentelemetry
+```
+
+JAEGER UI: http://localhost:16686
+
+ZIPKIN UI: http://localhost:9411
